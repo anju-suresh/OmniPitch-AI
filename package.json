@@ -1,0 +1,21 @@
+{
+  "name": "omnipitch-ai",
+  "version": "1.0.0",
+  "description": "OmniPitch AI: Real-Time Sports Intelligence & Fan Experience Platform (MERN + Gemini AI)",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "backend:dev": "cd backend && npm run dev",
+    "frontend:dev": "cd frontend && npm run dev"
+  },
+  "keywords": [
+    "hackathon",
+    "sports-ai",
+    "premier-league",
+    "gemini-ai",
+    "mern",
+    "real-time",
+    "chakra-ui"
+  ],
+  "author": "",
+  "license": "MIT"
+}
